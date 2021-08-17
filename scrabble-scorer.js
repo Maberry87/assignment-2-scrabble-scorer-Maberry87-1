@@ -68,7 +68,7 @@ function simpleScore(word) {
 	}
 	return points;
 }
-
+console.log("***")
 function vowelBonusScore(word) {
 	let points = 0;
 	
